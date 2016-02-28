@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62454cf0-796a-44c3-8c30-7849da4b3b5c" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vineel/ArraysClone.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/ArraysClone.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vineel/ArraystoStringdeepToString.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/ArraystoStringdeepToString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vineel/ConsumerInterface.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/ConsumerInterface.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vineel/Covariance.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/Covariance.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vineel/DefaultMethodsInterfaces.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/DefaultMethodsInterfaces.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vineel/DoubleBraceInitializationExample.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/DoubleBraceInitializationExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vineel/EnumExample.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/EnumExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vineel/GetClassInAnonymousInnerClassExample.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/GetClassInAnonymousInnerClassExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vineel/InnerClassExample.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/InnerClassExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vineel/LocalInnerClassExample.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/LocalInnerClassExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vineel/ObjectsEqualExample.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/ObjectsEqualExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vineel/ObjectsHashExample.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/ObjectsHashExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vineel/StaticMethodsOnInterfacesExample.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/StaticMethodsOnInterfacesExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vineel/Temp.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/Temp.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vineel/TryWithResourceUsageExample.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/TryWithResourceUsageExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/Temp.java" afterPath="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/Temp.java" />
     </list>
     <ignored path="JavaRevisited.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Temp.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/Temp.java">
+      <file leaf-file-name="UsageOfExecutors.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/UsageOfExecutors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16666667">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.22222222">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -87,6 +74,22 @@
         <option value="$PROJECT_DIR$/src/com/vineel/TryWithResourceUsageExample.java" />
         <option value="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/vineel/Temp.java" />
         <option value="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/Temp.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/LoggerExample.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/BlockingQueueExample.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/ImmutableForConcurrentAccess.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/JavaIntrinsicLocksAreReentrant.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/ProcessInputOutput.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/ProducerConsumerWithObjectWaitNotify.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/Sample.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/SynchronizedOnMultipleMethods.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/ThreadJoin.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/ThreadJoinUsage.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/ThreadJoinWithSingleRunnable.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/ThreadLocalStorageUsage.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/UsageOfExecutors.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/BasicSynchronization.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/MultipleThreadsWithAtomicSingleData.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/MultipleThreadsWithSingleData.java" />
       </list>
     </option>
   </component>
@@ -101,6 +104,31 @@
     <option name="x" value="-7" />
     <option name="width" value="1612" />
     <option name="height" value="867" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -127,7 +155,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -160,20 +189,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CoreJavaVolIHorstmann" />
+              <option name="myItemId" value="vineel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaRevisited" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="font&#9;ACTION&#9;EditorIncreaseFontSize" />
     <property name="last_opened_file_path" value="/usr/lib/jvm/java-8-openjdk-amd64/docs" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -184,60 +221,11 @@
       <recent name="com.vineel.CoreJavaVolIHorstmann" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Vineel\vin-pro\Java-pro\JavaRevisited\src\com\vineel\ExploreJavaThreads" />
       <recent name="$PROJECT_DIR$/src/com/vineel" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GetClassInAnonymousInnerClassExample">
-    <configuration default="false" name="ConsumerInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ConsumerInterface" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaRevisited" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="InnerClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="InnerClassExample" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaRevisited" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="LocalInnerClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.vineel.CoreJavaVolIHorstmann.vineel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.vineel.CoreJavaVolIHorstmann.vineel.LocalInnerClassExample" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaRevisited" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ProcessInputOutput">
     <configuration default="false" name="DoubleBraceInitializationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -266,6 +254,56 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.vineel.CoreJavaVolIHorstmann.vineel.GetClassInAnonymousInnerClassExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaRevisited" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="LoggerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.vineel.CoreJavaVolIHorstmann.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.vineel.CoreJavaVolIHorstmann.LoggerExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaRevisited" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MultipleThreadsWithSingleData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="MultipleThreadsWithSingleData" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaRevisited" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ProcessInputOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ProcessInputOutput" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -372,19 +410,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaRevisited" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -442,19 +467,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ConsumerInterface" />
-      <item index="1" class="java.lang.String" itemvalue="Application.InnerClassExample" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LocalInnerClassExample" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DoubleBraceInitializationExample" />
-      <item index="4" class="java.lang.String" itemvalue="Application.GetClassInAnonymousInnerClassExample" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DoubleBraceInitializationExample" />
+      <item index="1" class="java.lang.String" itemvalue="Application.GetClassInAnonymousInnerClassExample" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LoggerExample" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MultipleThreadsWithSingleData" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ProcessInputOutput" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.GetClassInAnonymousInnerClassExample" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DoubleBraceInitializationExample" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LocalInnerClassExample" />
-        <item index="3" class="java.lang.String" itemvalue="Application.InnerClassExample" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ConsumerInterface" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ProcessInputOutput" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MultipleThreadsWithSingleData" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LoggerExample" />
+        <item index="3" class="java.lang.String" itemvalue="Application.GetClassInAnonymousInnerClassExample" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DoubleBraceInitializationExample" />
       </list>
     </recent_temporary>
   </component>
@@ -473,30 +498,30 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1612" height="867" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33651227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23746867" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24420103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32628798" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -519,11 +544,21 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/LoggerExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1456684375708" expanded="true" signature="72:117" placeholder="/**...*/" />
+            <marker date="1456684375708" expanded="true" signature="190:285" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/Temp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -531,7 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -539,7 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -547,7 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,7 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35363457">
           <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,7 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4950884">
           <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40582725">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,14 +748,320 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39021853">
           <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/io/StringWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+          <folding>
+            <marker date="1447047574000" expanded="false" signature="0:215" placeholder="/.../" />
+            <marker date="1447047574000" expanded="true" signature="242:426" placeholder="..." />
+            <marker date="1447047574000" expanded="true" signature="428:1534" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="1740:1889" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="1971:2181" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="2245:2350" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="2356:2564" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="2662:2979" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="3073:3241" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="3321:3498" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="3869:3915" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="3921:4204" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="4246:4279" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="4285:4840" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="4901:4976" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="4982:5761" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="5887:6009" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="6015:7298" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="7368:7428" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="7434:8854" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="8978:9117" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="9123:10391" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="10455:10511" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="10517:11922" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="12040:12175" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="12181:12242" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="12292:12376" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="12382:12596" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="12621:12841" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="12918:13101" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="13126:13544" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="13550:14424" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="14457:14678" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="14684:14954" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="14985:15016" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="15022:15310" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="15343:15375" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="15520:16058" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="16088:16477" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="16483:17118" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="17171:17557" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="17833:18420" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="18455:18937" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="18966:19423" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="19476:19873" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="19907:19951" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="19957:20288" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="20319:20360" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="20366:20801" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="20831:20872" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="20878:21317" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="21348:21389" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="21395:21847" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="21879:21920" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="21926:22399" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="22432:22473" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="22479:22891" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="22924:22949" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="22955:23387" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="23420:23504" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="23510:23959" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="23994:24037" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="24087:24353" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="24380:24406" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="24412:24674" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="24710:24802" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="24808:25067" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="25100:25192" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="25198:25454" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="25486:25578" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="25584:25840" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="25873:25965" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="25971:26228" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="26262:26354" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="26360:26620" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="26655:26747" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="26753:27016" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="27051:27143" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="27149:27409" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="27444:27536" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="27542:27897" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="27932:28062" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="28069:29911" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="29974:30018" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="30024:32075" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="32148:32195" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="32201:34027" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="34090:34618" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="34624:36433" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="36506:36988" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="36994:37908" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="37957:38085" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="38091:39309" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="39378:39516" placeholder="{...}" />
+            <marker date="1447047574000" expanded="true" signature="39522:39923" placeholder="/**...*/" />
+            <marker date="1447047574000" expanded="true" signature="39962:40008" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/Temp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16666667">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/LoggerExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2701228">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1456684375708" expanded="true" signature="72:117" placeholder="/**...*/" />
+            <marker date="1456684375708" expanded="true" signature="190:285" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/BasicSynchronization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.037037037">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1456685034275" expanded="true" signature="267:1445" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/BlockingQueueExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7037038">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <folding>
+            <marker date="1456684852481" expanded="true" signature="47:131" placeholder="..." />
+            <marker date="1456684852481" expanded="true" signature="170:704" placeholder="{...}" />
+            <marker date="1456684852481" expanded="true" signature="288:355" placeholder="{...}" />
+            <marker date="1456684852481" expanded="true" signature="393:702" placeholder="{...}" />
+            <marker date="1456684852481" expanded="true" signature="739:1204" placeholder="{...}" />
+            <marker date="1456684852481" expanded="true" signature="853:920" placeholder="{...}" />
+            <marker date="1456684852481" expanded="true" signature="958:1202" placeholder="{...}" />
+            <marker date="1456684852481" expanded="true" signature="1240:1573" placeholder="{...}" />
+            <marker date="1456684852481" expanded="true" signature="1302:1571" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/ImmutableForConcurrentAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4814815">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <marker date="1456684852465" expanded="true" signature="234:286" placeholder="/**...*/" />
+            <marker date="1456684852465" expanded="true" signature="310:813" placeholder="{...}" />
+            <marker date="1456684852465" expanded="true" signature="438:681" placeholder="{...}" />
+            <marker date="1456684852465" expanded="true" signature="726:811" placeholder="{...}" />
+            <marker date="1456684852465" expanded="true" signature="815:937" placeholder="/**...*/" />
+            <marker date="1456684852465" expanded="true" signature="967:3118" placeholder="{...}" />
+            <marker date="1456684852465" expanded="true" signature="1181:1744" placeholder="{...}" />
+            <marker date="1456684852465" expanded="true" signature="1789:1874" placeholder="{...}" />
+            <marker date="1456684852465" expanded="true" signature="2241:3116" placeholder="{...}" />
+            <marker date="1456684852465" expanded="true" signature="2460:2763" placeholder="{...}" />
+            <marker date="1456684852465" expanded="true" signature="2812:3110" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/JavaIntrinsicLocksAreReentrant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4074074">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1456684852476" expanded="true" signature="40:406" placeholder="/**...*/" />
+            <marker date="1456684852476" expanded="true" signature="533:693" placeholder="{...}" />
+            <marker date="1456684852476" expanded="true" signature="734:901" placeholder="{...}" />
+            <marker date="1456684852476" expanded="true" signature="962:1008" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/MultipleThreadsWithAtomicSingleData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.074074075">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1456685034255" expanded="true" signature="131:383" placeholder="/**...*/" />
+            <marker date="1456685034255" expanded="true" signature="579:1335" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/MultipleThreadsWithSingleData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.074074075">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1456685034250" expanded="true" signature="74:364" placeholder="/**...*/" />
+            <marker date="1456685034250" expanded="true" signature="633:1641" placeholder="{...}" />
+            <marker date="1456685034250" expanded="true" signature="721:912" placeholder="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/ProcessInputOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <marker date="1456684886414" expanded="true" signature="47:108" placeholder="..." />
+            <marker date="1456684886414" expanded="true" signature="110:159" placeholder="/**...*/" />
+            <marker date="1456684886414" expanded="true" signature="256:965" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/ProducerConsumerWithObjectWaitNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22222222">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1456684886398" expanded="true" signature="81:130" placeholder="/**...*/" />
+            <marker date="1456684886398" expanded="true" signature="441:2017" placeholder="{...}" />
+            <marker date="1456684886398" expanded="true" signature="934:1329" placeholder="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22222222">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1456685034267" expanded="true" signature="47:161" placeholder="..." />
+            <marker date="1456685034267" expanded="true" signature="223:331" placeholder="{...}" />
+            <marker date="1456685034267" expanded="true" signature="389:724" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/SynchronizedOnMultipleMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1481482">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <marker date="1456685034259" expanded="true" signature="40:829" placeholder="/**...*/" />
+            <marker date="1456685034259" expanded="true" signature="934:1241" placeholder="{...}" />
+            <marker date="1456685034259" expanded="true" signature="1299:1606" placeholder="{...}" />
+            <marker date="1456685034259" expanded="true" signature="1667:1789" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/ThreadJoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7777778">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <marker date="1456685034245" expanded="true" signature="54:775" placeholder="/**...*/" />
+            <marker date="1456685034245" expanded="true" signature="876:2476" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/ThreadJoinUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4074074">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1456685034235" expanded="true" signature="59:455" placeholder="/**...*/" />
+            <marker date="1456685034235" expanded="true" signature="634:1893" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/ThreadJoinWithSingleRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37037036">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <marker date="1456685034263" expanded="true" signature="72:469" placeholder="/**...*/" />
+            <marker date="1456685034263" expanded="true" signature="662:1981" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/ThreadLocalStorageUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5185185">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <marker date="1456685034239" expanded="true" signature="67:530" placeholder="/**...*/" />
+            <marker date="1456685034239" expanded="true" signature="847:1961" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/ExploreJavaThreads/UsageOfExecutors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22222222">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -737,6 +1072,17 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -807,6 +1153,17 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
