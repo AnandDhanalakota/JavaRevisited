@@ -1,3 +1,5 @@
+package com.vineel;
+
 import java.util.function.IntConsumer;
 
 /**
