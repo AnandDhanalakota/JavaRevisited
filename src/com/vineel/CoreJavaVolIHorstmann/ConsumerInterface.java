@@ -1,4 +1,4 @@
-package com.vineel;
+package com.vineel.CoreJavaVolIHorstmann;
 
 import java.util.function.IntConsumer;
 

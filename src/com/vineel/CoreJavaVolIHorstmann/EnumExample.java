@@ -1,4 +1,4 @@
-package com.vineel;
+package com.vineel.CoreJavaVolIHorstmann;
 
 //Unlike C/C++ enums these enums are strongly typed.
 //Color.Red implies just a new Object of type Color;

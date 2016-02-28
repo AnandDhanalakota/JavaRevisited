@@ -1,4 +1,4 @@
-package com.vineel;
+package com.vineel.CoreJavaVolIHorstmann;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
