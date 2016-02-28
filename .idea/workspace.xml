@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62454cf0-796a-44c3-8c30-7849da4b3b5c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="62454cf0-796a-44c3-8c30-7849da4b3b5c" name="Default" comment="" />
     <ignored path="JavaRevisited.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DoubleBraceInitializationExample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/vineel/DoubleBraceInitializationExample.java">
+      <file leaf-file-name="GetClassInAnonymousInnerClassExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/vineel/GetClassInAnonymousInnerClassExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31827113">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.63654226">
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -68,6 +66,7 @@
         <option value="$PROJECT_DIR$/src/com/vineel/InnerClassExample.java" />
         <option value="$PROJECT_DIR$/src/com/vineel/LocalInnerClassExample.java" />
         <option value="$PROJECT_DIR$/src/com/vineel/DoubleBraceInitializationExample.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/GetClassInAnonymousInnerClassExample.java" />
       </list>
     </option>
   </component>
@@ -165,27 +164,7 @@
       <recent name="$PROJECT_DIR$/src/com/vineel" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DoubleBraceInitializationExample">
-    <configuration default="false" name="ArraysClone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.vineel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.vineel.ArraysClone" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaRevisited" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.GetClassInAnonymousInnerClassExample">
     <configuration default="false" name="ConsumerInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ConsumerInterface" />
@@ -244,6 +223,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.vineel.DoubleBraceInitializationExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaRevisited" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="GetClassInAnonymousInnerClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.vineel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.vineel.GetClassInAnonymousInnerClassExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -420,19 +419,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ArraysClone" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ConsumerInterface" />
-      <item index="2" class="java.lang.String" itemvalue="Application.InnerClassExample" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LocalInnerClassExample" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DoubleBraceInitializationExample" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ConsumerInterface" />
+      <item index="1" class="java.lang.String" itemvalue="Application.InnerClassExample" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LocalInnerClassExample" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DoubleBraceInitializationExample" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GetClassInAnonymousInnerClassExample" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DoubleBraceInitializationExample" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LocalInnerClassExample" />
-        <item index="2" class="java.lang.String" itemvalue="Application.InnerClassExample" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ConsumerInterface" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ArraysClone" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GetClassInAnonymousInnerClassExample" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DoubleBraceInitializationExample" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LocalInnerClassExample" />
+        <item index="3" class="java.lang.String" itemvalue="Application.InnerClassExample" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ConsumerInterface" />
       </list>
     </recent_temporary>
   </component>
@@ -460,7 +459,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32628798" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32628798" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16729324" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -684,8 +683,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/vineel/DoubleBraceInitializationExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31827113">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.4950884">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <marker date="1456650486649" expanded="true" signature="42:87" placeholder="/**...*/" />
+            <marker date="1456650486649" expanded="true" signature="188:238" placeholder="{...}" />
+            <marker date="1456650486649" expanded="true" signature="282:577" placeholder="{...}" />
+            <marker date="1456650486649" expanded="true" signature="292:496" placeholder="//..." />
+            <marker date="1456650486649" expanded="true" signature="534:569" placeholder="{...}" />
+            <marker date="1456650486649" expanded="true" signature="535:568" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/GetClassInAnonymousInnerClassExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63654226">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
           <folding />
         </state>
       </provider>
