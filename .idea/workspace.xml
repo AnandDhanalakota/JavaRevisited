@@ -22,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TypeErasureWithBoundedParametersExample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/TypeErasureWithBoundedParametersExample.java">
+      <file leaf-file-name="GenericsMulitpleBoundedParametersExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/GenericsMulitpleBoundedParametersExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5135135">
-              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.28616852">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -93,6 +93,7 @@
         <option value="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/DeclaringGenericMethod.java" />
         <option value="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/GenericBoundedParametersExample.java" />
         <option value="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/TypeErasureWithBoundedParametersExample.java" />
+        <option value="$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/GenericsMulitpleBoundedParametersExample.java" />
       </list>
     </option>
   </component>
@@ -252,27 +253,7 @@
       <recent name="$PROJECT_DIR$/src/com/vineel" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TypeErasureWithBoundedParametersExample">
-    <configuration default="false" name="LoggerClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.vineel.CoreJavaVolIHorstmann.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.vineel.CoreJavaVolIHorstmann.LoggerClassExample" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaRevisited" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.GenericsMulitpleBoundedParametersExample">
     <configuration default="false" name="ThreaddumpStackMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -341,6 +322,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.vineel.CoreJavaVolIHorstmann.TypeErasureWithBoundedParametersExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaRevisited" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="GenericsMulitpleBoundedParametersExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.vineel.CoreJavaVolIHorstmann.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.vineel.CoreJavaVolIHorstmann.GenericsMulitpleBoundedParametersExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -588,19 +589,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.LoggerClassExample" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ThreaddumpStackMethodExample" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DeclaringGenericMethod" />
-      <item index="3" class="java.lang.String" itemvalue="Application.GenericBoundedParametersExample" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TypeErasureWithBoundedParametersExample" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ThreaddumpStackMethodExample" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DeclaringGenericMethod" />
+      <item index="2" class="java.lang.String" itemvalue="Application.GenericBoundedParametersExample" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TypeErasureWithBoundedParametersExample" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GenericsMulitpleBoundedParametersExample" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TypeErasureWithBoundedParametersExample" />
-        <item index="1" class="java.lang.String" itemvalue="Application.GenericBoundedParametersExample" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DeclaringGenericMethod" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ThreaddumpStackMethodExample" />
-        <item index="4" class="java.lang.String" itemvalue="Application.LoggerClassExample" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GenericsMulitpleBoundedParametersExample" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TypeErasureWithBoundedParametersExample" />
+        <item index="2" class="java.lang.String" itemvalue="Application.GenericBoundedParametersExample" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DeclaringGenericMethod" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ThreaddumpStackMethodExample" />
       </list>
     </recent_temporary>
   </component>
@@ -628,7 +629,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="0" width="1922" height="1062" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -638,7 +639,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13897763" sideWeight="0.49627262" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -698,13 +699,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/GetClassInAnonymousInnerClassExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/LocalInnerClassExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1003,6 +997,205 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.028892456">
           <caret line="2181" column="19" selection-start-line="2181" selection-start-column="19" selection-end-line="2181" selection-end-column="19" />
+          <folding>
+            <marker date="1445465922000" expanded="false" signature="0:1212" placeholder="/.../" />
+            <marker date="1445465922000" expanded="true" signature="1241:1648" placeholder="..." />
+            <marker date="1445465922000" expanded="true" signature="1650:4593" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="4697:4744" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="4782:4823" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="4867:4930" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="5008:5331" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="5441:5653" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="5674:5712" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="5718:6146" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="6182:6261" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="6267:6651" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="6684:6748" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="6754:7584" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="7640:8261" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="8267:9365" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="9425:10768" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="10774:12245" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="12329:12777" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="12783:14034" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="14095:14148" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="14400:14697" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="14703:15937" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="16062:16283" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="16289:17494" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="17568:17778" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="17784:18710" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="18811:18869" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="18875:19728" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="19778:19832" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="19838:20853" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="20910:21026" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="21032:21691" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="21724:21769" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="21775:22129" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="22169:22293" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="22299:22916" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="22958:23039" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="23382:23469" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="23475:23758" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="23783:23819" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="23825:24039" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="24069:24110" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="24116:24963" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="24998:25160" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="25166:26198" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="26237:26440" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="26446:27506" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="27549:27764" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="27770:28715" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="28776:29013" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="29019:29974" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="30041:30271" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="30277:30414" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="30459:30531" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="30537:31952" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="32030:32444" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="32450:34312" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="34406:34989" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="34995:35719" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="35815:35962" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="35968:36667" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="36712:36851" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="36857:37360" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="37390:37457" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="37463:38044" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="38088:38684" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="38690:39315" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="39366:39421" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="39490:39801" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="39807:40451" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="40502:41335" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="41341:42527" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="42586:42820" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="42826:45156" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="45204:45632" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="45638:46127" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="46385:47500" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="46580:47371" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="47381:47422" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="47460:47494" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="47506:48487" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="48535:48600" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="48606:50184" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="50279:50805" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="50811:53278" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="53393:54848" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="53977:54196" placeholder="//..." />
+            <marker date="1445465922000" expanded="true" signature="54399:54645" placeholder="//..." />
+            <marker date="1445465922000" expanded="true" signature="54854:55663" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="55722:56162" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="56168:56751" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="56797:56842" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="56848:57390" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="57434:57512" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="57518:58044" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="58071:58329" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="58335:59446" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="59478:59516" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="59522:61432" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="61479:62187" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="61772:61878" placeholder="//..." />
+            <marker date="1445465922000" expanded="true" signature="62193:62275" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="62336:62796" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="62802:63821" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="63857:63914" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="63920:65675" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="65726:66259" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="65799:65905" placeholder="//..." />
+            <marker date="1445465922000" expanded="true" signature="66265:66351" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="66416:66859" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="66865:67418" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="67454:67493" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="67499:68246" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="68297:68411" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="68417:68922" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="69038:69199" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="69205:69816" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="69979:71034" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="71040:71706" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="71746:71800" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="71806:72580" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="72635:72753" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="72759:73264" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="73384:73549" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="73555:74166" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="74333:75559" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="75565:76269" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="76314:76656" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="76662:77601" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="77660:78160" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="78166:79170" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="79237:79297" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="79303:80222" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="80260:80529" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="80535:81859" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="81914:82644" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="82650:83571" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="83613:83665" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="83671:83923" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="83968:84018" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="84024:85630" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="85696:85782" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="85788:87395" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="87459:87543" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="87549:88083" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="88157:88324" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="88330:92076" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="92128:94206" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="93271:93339" placeholder="//..." />
+            <marker date="1445465922000" expanded="true" signature="94212:95554" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="95595:95634" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="95640:96532" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="96613:96949" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="96955:98443" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="98553:98818" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="98824:101101" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="101147:104719" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="104725:105639" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="105672:105728" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="105734:107568" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="107614:111232" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="111238:112160" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="112193:112249" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="112255:113799" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="113825:114183" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="114189:114310" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="114340:114368" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="114374:114667" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="114700:114920" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="114926:116521" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="116585:116656" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="116662:118336" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="118410:118482" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="118488:118844" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="118890:118953" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="118959:119355" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="119402:119442" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="119448:120383" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="120453:120508" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="120514:121082" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="121156:121211" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="121217:121428" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="121479:121519" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="121525:121841" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="121886:121930" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="121936:122188" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="122230:122303" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="122309:122683" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="122724:122767" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="122773:123139" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="123181:123221" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="123227:123599" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="123642:123683" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="123689:124068" placeholder="/**...*/" />
+            <marker date="1445465922000" expanded="true" signature="124112:124154" placeholder="{...}" />
+            <marker date="1445465922000" expanded="true" signature="124160:125270" placeholder="/**...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1017,6 +1210,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1024,6 +1218,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.057692308">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1061,8 +1256,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/TypeErasureWithBoundedParametersExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5135135">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.53731346">
+          <caret line="28" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <marker date="1456847059455" expanded="true" signature="43:82" placeholder="/**...*/" />
+            <marker date="1456847059455" expanded="true" signature="181:247" placeholder="{...}" />
+            <marker date="1456847059455" expanded="true" signature="407:442" placeholder="{...}" />
+            <marker date="1456847059455" expanded="true" signature="706:852" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vineel/CoreJavaVolIHorstmann/GenericsMulitpleBoundedParametersExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28616852">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           <folding />
         </state>
       </provider>
