@@ -1,4 +1,4 @@
-package com.vineel.CoreJavaVolIHorstmann;
+package com.vineel.CoreJavaVolIHorstmann.Generics;
 
 /**
  * Created by vineel on 1/3/16.

@@ -1,4 +1,4 @@
-package com.vineel.CoreJavaVolIHorstmann;
+package com.vineel.CoreJavaVolIHorstmann.Generics;
 
 /**
  * Created by vineel on 1/3/16.
@@ -28,8 +28,8 @@ public class TypeErasureWithBoundedParametersExample {
     }
 }
 /*
-public class com.vineel.CoreJavaVolIHorstmann.TypeErasureWithBoundedParametersExample {
-  public com.vineel.CoreJavaVolIHorstmann.TypeErasureWithBoundedParametersExample();
+public class com.vineel.CoreJavaVolIHorstmann.Generics.TypeErasureWithBoundedParametersExample {
+  public com.vineel.CoreJavaVolIHorstmann.Generics.TypeErasureWithBoundedParametersExample();
 
   public static <T> int length(T...);
     Code:
