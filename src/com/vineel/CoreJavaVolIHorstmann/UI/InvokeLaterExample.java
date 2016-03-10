@@ -18,6 +18,9 @@ class SimpleFrame extends JFrame{
 }
 public class InvokeLaterExample {
     public static void main(String[] args) {
+        // Invoke later causes the the runnable to
+        // to be executed on the event dispatch thread
+        // ratherthan on main thread
         SwingUtilities.invokeLater(() -> {
             SimpleFrame sf = new SimpleFrame();
             sf.setVisible(true);
